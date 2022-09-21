@@ -9,7 +9,7 @@
         This Paclet is intended to serve as an on-ramp to Mathematica/WL for Matlab users.
     </td>
     <td valign = "top">
-      <img src = "https://github.com/stoverc/Trigonometry/blob/main/img/Diagram1Trans_Tall.png" height="200%">
+      <img src = "https://github.com/stoverc/Matlab/blob/main/img/logo2.png">
     </td>
   </tr>
  </table>
