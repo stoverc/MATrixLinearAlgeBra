@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign = "top">
-      The <code>Matlab</code> paclet collects together a number of WL implementations of Matlab functions.
+      The <code>MATrixLinearAlgeBra</code> paclet collects together a number of WL implementations of Matlab functions.
       <br><br>
         This Paclet is intended to serve as an on-ramp to Mathematica/WL for Matlab users.
     </td>
