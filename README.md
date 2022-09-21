@@ -26,6 +26,7 @@
   <details>
   <summary><h4>20 Sep 2022</h4></summary>
   <ol>
+    <li>Later, made a (very sparse) main guide page.</li>
     <li>Initial commit. This version contains definitions four functions plus some skeleton documentation for each. Much more fleshing out is needed.</li>
   </ol>
   </details>
