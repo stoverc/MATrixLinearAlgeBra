@@ -1,5 +1,5 @@
 # MATrixLinearAlgeBra
-[My](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover) `Matlab` paclet for [The Wolfram Paclet Repository](https://resources.wolframcloud.com/PacletRepository). <sup>([published docs]())</sup><sup>([bleeding-edge docs]())</sup>
+[My](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover) `MATrixLinearAlgeBra` paclet for [The Wolfram Paclet Repository](https://resources.wolframcloud.com/PacletRepository). <sup>([published docs]())</sup><sup>([bleeding-edge docs]())</sup>
 
 <table>
   <tr>
