@@ -2,7 +2,7 @@
 
 PacletObject[
   <|
-    "Name" -> "TheRealCStover/Matlab",
+    "Name" -> "TheRealCStover/MATrixLinearAlgeBra",
     "Description" -> "A collection of WL implementations of Matlab functions",
     "Creator" -> "Christopher Stover",
     "License" -> "MIT",
@@ -13,12 +13,12 @@ PacletObject[
       {
         "Kernel",
         "Root" -> "Kernel",
-        "Context" -> {{"TheRealCStover`Matlab`", "Matlab.wl"}},
+        "Context" -> {{"TheRealCStover`MATrixLinearAlgeBra`", "MATrixLinearAlgeBra.wl"}},
         "Symbols" -> {
-          "TheRealCStover`Matlab`FlipLR",
-          "TheRealCStover`Matlab`FlipUD",
-          "TheRealCStover`Matlab`Linspace",
-          "TheRealCStover`Matlab`Rot90"
+          "TheRealCStover`MATrixLinearAlgeBra`FlipLR",
+          "TheRealCStover`MATrixLinearAlgeBra`FlipUD",
+          "TheRealCStover`MATrixLinearAlgeBra`Linspace",
+          "TheRealCStover`MATrixLinearAlgeBra`Rot90"
         }
       },
       {"Documentation", "Language" -> "English"}

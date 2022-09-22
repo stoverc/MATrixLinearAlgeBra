@@ -6,7 +6,7 @@
     <td valign = "top">
       The <code>MATrixLinearAlgeBra</code> paclet collects together a number of WL implementations of Matlab functions.
       <br><br>
-        This Paclet is intended to serve as an on-ramp to Mathematica/WL for Matlab users.
+      This Paclet is intended to serve as an on-ramp to Mathematica/WL for Matlab users.
     </td>
     <td valign = "top">
       <img src = "https://github.com/stoverc/Matlab/blob/main/img/logo2.png">
@@ -23,6 +23,12 @@
 
 <details>
 <summary><h2>Changelog</h2></summary>
+  <details>
+  <summary><h4>21 Sep 2022</h4></summary>
+  <ol>
+    <li>Renamed from <code>Matlab</code> to <code>MATrixLinearAlgeBra</code> per <a href = "https://resources.wolframcloud.com/publishers/resources?PublisherID=Bob">@Bob Sandheinrich</a>'s suggestion. Thanks, Bob!</li>
+  </ol>
+  </details>
   <details>
   <summary><h4>20 Sep 2022</h4></summary>
   <ol>
