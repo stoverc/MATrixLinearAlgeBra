@@ -1,5 +1,5 @@
 # MATrixLinearAlgeBra
-[My](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover) `MATrixLinearAlgeBra` paclet for [The Wolfram Paclet Repository](https://resources.wolframcloud.com/PacletRepository). <sup>([published docs]())</sup><sup>([bleeding-edge docs]())</sup>
+[My](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover) `MATrixLinearAlgeBra` paclet for [The Wolfram Paclet Repository](https://resources.wolframcloud.com/PacletRepository). <sup>([published docs]())</sup><sup>([bleeding-edge docs](https://www.wolframcloud.com/obj/chaz0014/DeployedResources/Paclet/TheRealCStover/MATrixLinearAlgeBra/))</sup>
 
 <table>
   <tr>
@@ -27,6 +27,7 @@
   <summary><h4>21 Sep 2022</h4></summary>
   <ol>
     <li>Renamed from <code>Matlab</code> to <code>MATrixLinearAlgeBra</code> per <a href = "https://resources.wolframcloud.com/publishers/resources?PublisherID=Bob">@Bob Sandheinrich</a>'s suggestion. Thanks, Bob!</li>
+    <li>Published v1.0.0 in the paclet repo: (<a href = "">link</a>)
   </ol>
   </details>
   <details>
