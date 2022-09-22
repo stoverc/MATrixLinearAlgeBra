@@ -12,9 +12,9 @@
       <img src = "https://github.com/stoverc/Matlab/blob/main/img/logo2.png">
     </td>
   </tr>
- </table>
- 
-<!--[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/15vauXgrU)-->
+</table>
+
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/17EzQ1JW1)
  
 ## TODO
 * Conditions on arguments of <code>Linspace</code>.
