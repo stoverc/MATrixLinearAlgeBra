@@ -27,7 +27,7 @@
   <summary><h4>21 Sep 2022</h4></summary>
   <ol>
     <li>Renamed from <code>Matlab</code> to <code>MATrixLinearAlgeBra</code> per <a href = "https://resources.wolframcloud.com/publishers/resources?PublisherID=Bob">@Bob Sandheinrich</a>'s suggestion. Thanks, Bob!</li>
-    <li>Published v1.0.0 in the paclet repo: (<a href = "">link</a>)
+    <li>Attempted to publish v1.0.0 in the paclet repo before hitting error.</li>
   </ol>
   </details>
   <details>
