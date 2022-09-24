@@ -1,5 +1,5 @@
 # MATrixLinearAlgeBra
-[My](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover) `MATrixLinearAlgeBra` paclet for [The Wolfram Paclet Repository](https://resources.wolframcloud.com/PacletRepository). <sup>([published docs]())</sup><sup>([bleeding-edge docs](https://www.wolframcloud.com/obj/chaz0014/DeployedResources/Paclet/TheRealCStover/MATrixLinearAlgeBra/))</sup>
+[My](https://resources.wolframcloud.com/publishers/resources?PublisherID=TheRealCStover) `MATrixLinearAlgeBra` paclet for [The Wolfram Paclet Repository](https://resources.wolframcloud.com/PacletRepository). <sup>([published docs](https://resources.wolframcloud.com/PacletRepository/resources/TheRealCStover/MATrixLinearAlgeBra/))</sup><sup>([bleeding-edge docs](https://www.wolframcloud.com/obj/chaz0014/DeployedResources/Paclet/TheRealCStover/MATrixLinearAlgeBra/))</sup>
 
 <table>
   <tr>
@@ -24,10 +24,12 @@
 <details>
 <summary><h2>Changelog</h2></summary>
   <details>
-  <summary><h4>21 Sep 2022</h4></summary>
+  <summary><h4>21-23 Sep 2022</h4></summary>
   <ol>
     <li>Renamed from <code>Matlab</code> to <code>MATrixLinearAlgeBra</code> per <a href = "https://resources.wolframcloud.com/publishers/resources?PublisherID=Bob">@Bob Sandheinrich</a>'s suggestion. Thanks, Bob!</li>
     <li>Attempted to publish v1.0.0 in the paclet repo before hitting error.</li>
+    <li>A couple days later: Re-created the entire paclet from scratch to attempt to overcome errors.</li>
+    <li>Published v1.0.0 in the Paclet Repo: (<a href = "https://resources.wolframcloud.com/PacletRepository/resources/TheRealCStover/MATrixLinearAlgeBra/">link</a>)
   </ol>
   </details>
   <details>
