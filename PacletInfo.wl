@@ -5,15 +5,20 @@ PacletObject[
     "Name" -> "TheRealCStover/MATrixLinearAlgeBra",
     "Description" -> "A collection of WL implementations of Matlab functions",
     "Creator" -> "Christopher Stover",
-    "License" -> "MIT",
-    "PublisherID" -> "TheRealCStover",
     "Version" -> "1.0.0",
     "WolframVersion" -> "13.1+",
+    "PublisherID" -> "TheRealCStover",
+    "License" -> "MIT",
     "Extensions" -> {
       {
         "Kernel",
         "Root" -> "Kernel",
-        "Context" -> {{"TheRealCStover`MATrixLinearAlgeBra`", "MATrixLinearAlgeBra.wl"}},
+        "Context" -> {
+          {
+            "TheRealCStover`MATrixLinearAlgeBra`",
+            "MATrixLinearAlgeBra.wl"
+          }
+        },
         "Symbols" -> {
           "TheRealCStover`MATrixLinearAlgeBra`FlipLR",
           "TheRealCStover`MATrixLinearAlgeBra`FlipUD",

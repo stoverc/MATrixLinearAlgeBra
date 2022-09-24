@@ -2,8 +2,6 @@
 
 BeginPackage["TheRealCStover`MATrixLinearAlgeBra`"];
 
-(* Declare your packages public symbols here. *)
-
 FlipLR;
 FlipUD;
 Linspace;
